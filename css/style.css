@@ -1,7 +1,18 @@
 body {
-	
+	background-color: #B9E28C
 }
 
 .margin {
-	
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+h2 {
+	background-color: #D6D84F;
+	color: #5B618A;
+}
+
+h4 {
+	background-color: #D6D84F;
+	color: #5B618A;
 }
